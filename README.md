@@ -1,4 +1,4 @@
-# afmf-portfolio
+# afmf portfolio
 It's a portfolio about photographer. Code is written in flutter for web
 
 Check out this link to get started : 
